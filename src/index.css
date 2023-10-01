@@ -174,10 +174,15 @@ body {
 /* RESUME COMPONENT */
 .downloaddiv{
   background-color: #2f904f;
+  width: 150px;
+  box-shadow: 0px 0px 5px yellow;
+  padding: 0px 15px;
+  border-radius: 2px;
 }
 .downloadanchor{
   text-decoration: none;
   color: white;
+  font-weight: 600;
 }
 
 /* WORK COMPONENT */

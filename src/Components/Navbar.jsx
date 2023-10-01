@@ -13,11 +13,11 @@ function Navbar() {
 
         <div className="rightnav">
           <input type="checkbox" id="active" />
-          <label htmlFor="active" class="menu-btn">
+          {/* <label htmlFor="active" class="menu-btn">
             <span></span>
-          </label>
+          </label> */}
           <label htmlFor="active" className="close"></label>
-          <div className="wrapper">
+          {/* <div className="wrapper">
             <ul>
               <li>
                 <a href="/home">Home</a>
@@ -28,14 +28,14 @@ function Navbar() {
               <li>
                 <a href="/resume">Resume</a>
               </li>
-              {/* <li>
+              <li>
                 <a href="/skills">Skills</a>
-              </li> */}
-              {/* <li>
+              </li>
+              <li>
                 <a href="/works">Works</a>
-              </li> */}
+              </li>
             </ul>
-          </div>
+          </div> */}
 
           {/* <Link className="navlinks" to="/home">
             Home
