@@ -27,7 +27,7 @@ function Home() {
               <a href="https://github.com/SHIVAM-GOUR" className="sociallinks" target='_blank'>
                 <i className="bi bi-github"></i>
               </a>
-              <a href="https://twitter.com/ShivamGour__" className="sociallinks" target='_blank'>
+              <a href="https://twitter.com/hi_shivamgour" className="sociallinks" target='_blank'>
                 <i className="bi bi-twitter"></i>
               </a>
               <a href="https://www.instagram.com/hi.shivamgour/" className="sociallinks" target='_blank'>
