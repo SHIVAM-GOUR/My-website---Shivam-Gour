@@ -24,7 +24,7 @@ function Home() {
               <b>Backend : </b>Golang, Docker, Nodejs, Typescript, SQL,
               Postgres, GoFiber, GORM.
               <div className="downloaddiv" download>
-                <a href={resumeLink} className="downloadanchor">
+                <a href={resumeLink} className="downloadanchor" target="_blank" rel="noreferrer">
                   <p className="downloadtxt">Download Resume</p>
                 </a>
               </div>
